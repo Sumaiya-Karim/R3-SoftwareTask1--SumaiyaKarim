@@ -36,5 +36,5 @@ The BCD to Decimal Conversion can go upto 15 but we can only display until  9  o
 Step 5: Test one 7 segment with 7 segment decoder and was able to make it work 
 step 6: Added the next 7 segment with second deocder and tested out the code given in the following website https://www.instructables.com/Two-Digit-TimerCounter-Using-Arduino-7-Segment-Dis/ for each step 
 Link to TinkerCad: https://www.tinkercad.com/things/0Bv2I1a1E1U
-# Challenges I encountered  & # What I learned 
+# Challenges I encountered  & What I learned 
 This is my first time using GIT Terminal commands so it took me while to get used to with terminal commands. Due to time time constraint, I wasn't able sucessfully complete the project but I learned how to use the terminal commands and how to create neat circuit diagrams on tinkerCAD and arduino simulation features on TinkerCAD
